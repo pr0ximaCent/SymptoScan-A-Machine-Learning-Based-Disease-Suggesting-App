@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65940199642",
+    "project_id": "symptoscan-3fa23",
+    "storage_bucket": "symptoscan-3fa23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65940199642:android:ef2aad26c56a2baeeeade3",
+        "android_client_info": {
+          "package_name": "com.example.symptoscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIH2j0aCaGsPKia4Eyxt8RJ4SKS0N3I3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
